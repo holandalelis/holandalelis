@@ -1,9 +1,12 @@
 ### Olá, tudo bem? Eu me chamo Pedro Holanda !
+
 🏡 - Moro em Recife/PE.
 
 📚 - Sou graduado em Direito, pela Universidade Católica de Pernambuco.
 
-🖥️ - Porém, estou migrando de área para a Programação, onde estou me sentindo realizado e com o intuito de aprender cada vez mais!
+🖥️ - Porém, após contato com alguns amigos, descobri a área de ADS. Com isso, comecei a fazer cursos e vi que era analisar e desenvolver softwares era o que eu desejava para minha vida.
+
+🤓 - Hoje, sou aluno de Análise e desenvolvimento de sistemas e um entusiasta da tecnologia!
 
 <div>
   <a href="https://github.com/holandalelis">
