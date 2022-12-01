@@ -1,6 +1,6 @@
-<p align="center">
-<img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205080467-de6688ed-95b0-4ff0-8498-ed17d380e61d.gif"/>
-</p>
+<div align="center">
+<img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif"/>
+</div>
 
 ### Olá, tudo bem? Eu me chamo Pedro Holanda !
 
