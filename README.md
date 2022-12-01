@@ -1,17 +1,19 @@
 <div align="center">
 <img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif"/>
 </div>
+<br>
+<div align="center">
 
-### Olá, tudo bem? Eu me chamo Pedro Holanda !
+  Olá, tudo bem? Eu me chamo Pedro Holanda e seja bem-vindo ao meu Github !
+  
+  Moro em Recife/PE🏡
+  
+  Sou graduado em Direito, pela Universidade Católica de Pernambuco📚
 
-🏡 - Moro em Recife/PE.
+  Porém, depois de encarar que eu queria novos desafios para minha vida, resolvi estudar e virar um Desenvolvedor🖥️
 
-📚 - Sou graduado em Direito, pela Universidade Católica de Pernambuco.
-
-🖥️ - Porém, após contato com alguns amigos, descobri a área de ADS. Com isso, comecei a fazer cursos e vi que analisar e desenvolver softwares era o que eu desejava para minha vida.
-
-🤓 - Hoje, sou aluno de Análise e desenvolvimento de sistemas e um entusiasta da tecnologia!
-
+Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓!
+</div>
 <div>
   <a href="https://github.com/holandalelis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=holandalelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
