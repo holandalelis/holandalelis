@@ -44,3 +44,5 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
   <a href = "mailto:pedrolelis@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pedro-holanda-0327b421a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
+  <p align="center"> <img src="https://github.com/holandalelis/holandalelis/blob/output/github-contribution-grid-snake.svg"></p>
+  
