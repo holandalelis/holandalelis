@@ -1,3 +1,4 @@
+<h2>Bem vindo ao meu perfil do Github 👨🏽‍💻 </h2>
 <div align="center">
 <img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif"/>
 </div>
@@ -10,15 +11,32 @@
   
   Sou graduado em Direito, pela Universidade Católica de Pernambuco📚
 
-  Porém, depois de encarar que eu queria novos desafios para minha vida, resolvi estudar e virar um Desenvolvedor🖥️
+  Porém, depois de encarar que eu queria novos desafios para minha vida, resolvi estudar e virar um Analista e Desenvolvedor de sistemas🖥️
 
 Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓!
 </div>
-<div>
+
+<h2> 📊 Github Stats </h2>
+
+-   🖥️ GitHub Profile Stats
+<div align="center">
   <a href="https://github.com/holandalelis">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=holandalelis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holandalelis&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+<!--   🚀skills       -->
+<h2> 🚀 Skills <h2>
+
+<!--   💬 languages   -->
+
+💬 Languages
+  
+<p>
+  <a>
+    <img src="https://skillicons.dev/icons?i=cs,java,js,py" />
+  </a>
+</p>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
