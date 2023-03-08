@@ -48,7 +48,7 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
     
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,powershell,discord,github,gitlab,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,powershell,discord,github,gitlab,visualstudio,jira,bitbucket" />
   </a>
 </p>
   
@@ -61,7 +61,7 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
   Utilidades
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq" />
   </a>
 </p>
  
