@@ -55,7 +55,7 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
 🔧 FrameWorks
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=dotnet,vue,spring,maven,gradle" />
+    <img src="https://skillicons.dev/icons?i=dotnet,vue,spring,maven,gradle,rabbitmq" />
   </a>
 </p>
   Utilidades
