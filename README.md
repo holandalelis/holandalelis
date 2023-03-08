@@ -58,6 +58,7 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
     <img src="https://skillicons.dev/icons?i=dotnet,vue,spring,maven,gradle" />
   </a>
 </p>
+  
  ⚙ Utilidades e DevOps
 <p>
   <a>
