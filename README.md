@@ -55,20 +55,13 @@ Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bl
 🔧 FrameWorks
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=dotnet,vue,spring,maven,gradle,rabbitmq" />
+    <img src="https://skillicons.dev/icons?i=dotnet,vue,spring,maven,gradle" />
   </a>
 </p>
-  Utilidades
+ ⚙ Utilidades e DevOps
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq" />
-  </a>
-</p>
- 
-⚙  DevOps
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=docker" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq,docker" />
   </a>
 </p>
 
