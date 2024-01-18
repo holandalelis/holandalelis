@@ -3,17 +3,156 @@
 <img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif"/>
 </div>
 <br>
-<div align="center">
+<div>
+[PT/BR]
+  <br>
+  Olá, seja bem-vindo ao meu perfil do GitHub!
 
-  Olá, tudo bem? Eu me chamo Pedro Holanda e seja bem-vindo ao meu Github !
-  
-  Moro em Recife/PE🏡
-  
-  Sou graduado em Direito, pela Universidade Católica de Pernambuco📚
+  Sou Pedro Holanda, um desenvolvedor Full-Stack com base em Recife/PE🏡. Graduado em Análise e Desenvolvimento de Sistemas e em Direito📚, atualmente atuo na empresa <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓.
 
-  Porém, depois de encarar que eu queria novos desafios para minha vida, resolvi estudar e virar um Analista e Desenvolvedor de sistemas🖥️
+  <h1> Principais Contribuições Profissionais:</h1>
 
-Hoje, sou um desenvolvedor Full-Stack alocado na empresa <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓!
+  - **Ampliação de recursos no Back-End:** Utilizando C# em conjunto com o Framework .NET (3.1, 5.0 e 6.0) e EF, promovo o desenvolvimento contínuo de novas funcionalidades.
+
+  - **Migração de Sistemas Monolitos para MicroServiços:** Implementei a migração de sistemas monolíticos para arquiteturas de MicroServiços, utilizando diversas stacks, incluindo CQRS, MVC, entre outras.
+
+  - **Integração de Sistemas com o RM (TOTVS):** Responsável por integrações eficientes com o sistema RM da Totvs, para gestão de contratos, convênios e outras operações.
+
+  - **Inovação no Front-End:** Utilizando JavaScript e o Framework Vue.js, desenvolvo novos recursos para aprimorar a interação do usuário com as interfaces.
+
+  - **Rastreabilidade e colaboração:** Aplico o versionamento de código utilizando Git e GitLab, garantindo um fluxo de trabalho transparente e colaborativo.
+
+  - **Integração com plataformas de mensageria através do RabbitMQ:** Implementei comunicação eficiente entre sistemas, utilizando o RabbitMQ.
+
+  - **Gerenciamento de Banco de Dados SQLServer e PostgreSQL:** Asseguro o armazenamento e acesso robusto aos dados por meio do gerenciamento eficaz de bancos de dados.
+
+  - **Tratativa com Clientes:** Utilizo ferramentas como Monday, Trello e Notion para otimizar o atendimento aos clientes no dia a dia.
+
+  - **Levantamento de Requisitos e Estimativa:** Realizo o levantamento de requisitos para novas funcionalidades e aplicações, calculando pontos de função e estimando o trabalho necessário.
+
+</div>
+
+<div>
+  <h1> Competências :</h1>
+
+### Tecnologias e Ferramentas:
+
+- **Linguagens:**
+  - C#
+  - JavaScript
+  - Java
+
+- **Frameworks e Bibliotecas:**
+  - .NET Framework
+  - Vue.js
+  - Entity Framework
+  - SpringBoot
+
+- **Bancos de Dados:**
+  - Microsoft SQL Server
+  - PostgreSQL
+
+- **Ferramentas de Controle de Versão:**
+  - Git
+  - GitLab
+  - Bitbucket
+
+- **Ferramentas de Gerenciamento de Projetos:**
+  - Jira
+  - Monday
+  - Trello
+  - Notion
+
+- **Integração e Mensageria:**
+  - API REST
+  - Docker
+  - RabbitMQ
+
+- **Sistemas de Gestão Empresarial:**
+  - RM (Totvs)
+
+- **Gerenciador de Banco de dados:**
+  - DBeaver
+
+- **Habilidades Profissionais:**
+  - Levantamento de Requisitos
+  - Relacionamento com Clientes
+</div>
+
+<div>
+[EN/US]
+  <br>
+  Hello, welcome to my GitHub profile!
+
+  I'm Pedro Holanda, a Full-Stack Developer based in Recife/PE🏡. Graduated in Systems Analysis and Development and Law📚, I am currently working at <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓.
+
+  <h1> Key Professional Contributions:</h1>
+
+  - **Backend Enhancement:** Utilizing C# in conjunction with the .NET Framework (3.1, 5.0, and 6.0) and EF, I promote the continuous development of new functionalities.
+
+  - **Migration from Monoliths to Microservices:** I implemented the migration of monolithic systems to Microservices architectures, using various stacks, including CQRS, MVC, among others.
+
+  - **System Integration with RM (TOTVS):** Responsible for efficient integrations with Totvs' RM system, managing contracts, agreements, and other operations.
+
+  - **Innovation in Front-End:** Using JavaScript and the Vue.js Framework, I develop new features to enhance user interaction with interfaces.
+
+  - **Traceability and Collaboration:** Applying code versioning using Git and GitLab, ensuring a transparent and collaborative workflow.
+
+  - **Integration with Messaging Platforms through RabbitMQ:** I implemented efficient communication between systems using RabbitMQ.
+
+  - **Database Management (SQL Server and PostgreSQL):** Ensuring robust storage and access to data through effective database management.
+
+  - **Customer Interaction:** Using tools like Monday, Trello, and Notion to optimize customer interactions on a daily basis.
+
+  - **Requirements Gathering and Estimation:** Conducting requirements analysis for new functionalities and applications, calculating function points, and estimating the necessary work.
+
+</div>
+
+<div>
+  <h1> Skills :</h1>
+
+### Technologies and Tools:
+
+- **Languages:**
+  - C#
+  - JavaScript
+  - Java
+
+- **Frameworks and Libraries:**
+  - .NET Framework
+  - Vue.js
+  - Entity Framework
+  - SpringBoot
+
+- **Databases:**
+  - Microsoft SQL Server
+  - PostgreSQL
+
+- **Version Control Tools:**
+  - Git
+  - GitLab
+  - Bitbucket
+
+- **Project Management Tools:**
+  - Jira
+  - Monday
+  - Trello
+  - Notion
+
+- **Integration and Messaging:**
+  - API REST
+  - Docker
+  - RabbitMQ
+
+- **Enterprise Resource Planning Systems:**
+  - RM (Totvs)
+
+- **Database Manager:**
+  - DBeaver
+
+- **Professional Skills:**
+  - Requirements Gathering
+  - Customer Relationship
 </div>
 
 <h2> 📊 Github Stats </h2>
