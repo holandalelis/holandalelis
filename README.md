@@ -50,6 +50,7 @@
 
 - **Bancos de Dados:**
   - Microsoft SQL Server
+  - MySQL
   - PostgreSQL
 
 - **Ferramentas de Controle de Versão:**
@@ -126,6 +127,7 @@
 
 - **Databases:**
   - Microsoft SQL Server
+  - MySQL
   - PostgreSQL
 
 - **Version Control Tools:**
