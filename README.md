@@ -24,7 +24,7 @@
 
   - **Integração com plataformas de mensageria através do RabbitMQ:** Implementei comunicação eficiente entre sistemas, utilizando o RabbitMQ.
 
-  - **Gerenciamento de Banco de Dados SQLServer e PostgreSQL:** Asseguro o armazenamento e acesso robusto aos dados por meio do gerenciamento eficaz de bancos de dados.
+  - **Gerenciamento de Banco de Dados SQLServer, MySQL e PostgreSQL:** Asseguro o armazenamento e acesso robusto aos dados por meio do gerenciamento eficaz de bancos de dados.
 
   - **Tratativa com Clientes:** Utilizo ferramentas como Monday, Trello e Notion para otimizar o atendimento aos clientes no dia a dia.
 
@@ -100,7 +100,7 @@
 
   - **Integration with Messaging Platforms through RabbitMQ:** I implemented efficient communication between systems using RabbitMQ.
 
-  - **Database Management (SQL Server and PostgreSQL):** Ensuring robust storage and access to data through effective database management.
+  - **Database Management (SQL Server, MySQL and PostgreSQL):** Ensuring robust storage and access to data through effective database management.
 
   - **Customer Interaction:** Using tools like Monday, Trello, and Notion to optimize customer interactions on a daily basis.
 
