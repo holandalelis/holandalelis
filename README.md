@@ -12,7 +12,7 @@
 
   <h1> Principais Contribuições Profissionais:</h1>
 
-  - **Ampliação de recursos no Back-End:** Utilizando C# em conjunto com o Framework .NET (3.1, 5.0 e 6.0) e EF, promovo o desenvolvimento contínuo de novas funcionalidades.
+  - **Ampliação de recursos no Back-End:** Utilizando C# em conjunto com o Framework .NET (3.1, 5, 6 e 8) e EF, promovo o desenvolvimento contínuo de novas funcionalidades.
 
   - **Migração de Sistemas Monolitos para MicroServiços:** Implementei a migração de sistemas monolíticos para arquiteturas de MicroServiços, utilizando diversas stacks, incluindo CQRS, MVC, entre outras.
 
@@ -89,7 +89,7 @@
 
   <h1> Key Professional Contributions:</h1>
 
-  - **Backend Enhancement:** Utilizing C# in conjunction with the .NET Framework (3.1, 5.0, and 6.0) and EF, I promote the continuous development of new functionalities.
+  - **Backend Enhancement:** Utilizing C# in conjunction with the .NET Framework (3.1, 5, 6 and 8) and EF, I promote the continuous development of new functionalities.
 
   - **Migration from Monoliths to Microservices:** I implemented the migration of monolithic systems to Microservices architectures, using various stacks, including CQRS, MVC, among others.
 
