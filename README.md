@@ -182,11 +182,6 @@
     <img src="https://skillicons.dev/icons?i=cs,java,js" />
   </a>
 </p>
-<p>
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css" />
-  </a>
-</p>
 
 🛠 My tools
 <p>
