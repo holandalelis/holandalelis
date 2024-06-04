@@ -183,7 +183,7 @@
   
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=cs,java,js,py" />
+    <img src="https://skillicons.dev/icons?i=cs,java,js" />
   </a>
 </p>
 <p>
@@ -197,7 +197,7 @@
     
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,git,powershell,discord,github,gitlab,visualstudio,jira,bitbucket" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,git,powershell,discord,github,gitlab,visualstudio,bitbucket" />
   </a>
 </p>
   
@@ -211,7 +211,10 @@
  ⚙ Utilidades e DevOps
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq,docker" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq,docker,primevue" />
+  </a>
+  <a>
+    <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 </p>
 
