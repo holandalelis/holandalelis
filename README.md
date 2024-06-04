@@ -1,6 +1,6 @@
 <h2 align="center">Bem vindo ao meu perfil do Github 👨🏽‍💻 | Welcome to my github's profile </h2>
-<div align="center">
-<img width='400' align="center" src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif"/>
+<div style="display: flex; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif" style="width: 2000px; height: auto;">
 </div>
 <br>
 <div>
