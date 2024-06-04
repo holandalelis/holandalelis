@@ -174,13 +174,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=holandalelis&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-<!--   🚀skills       -->
 <h2> 🚀 Skills <h2>
 
-<!--   💬 languages   -->
-
 💬 Languages
-  
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=cs,java,js" />
@@ -192,9 +188,7 @@
   </a>
 </p>
 
-<!--   🛠tools   -->
 🛠 My tools
-    
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=vscode,idea,git,powershell,discord,github,gitlab,visualstudio,bitbucket" />
@@ -208,10 +202,10 @@
   </a>
 </p>
   
- ⚙ Utilidades e DevOps
+ ⚙ Utilities and DevOps
 <p>
   <a>
-    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq,docker,primevue" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,rabbitmq,docker" />
   </a>
   <a>
     <img src="https://skillicons.dev/icons?i=html,css" />
@@ -219,7 +213,6 @@
 </p>
 
 🛢 Databases
- 
 <p>
   <a>
     <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
