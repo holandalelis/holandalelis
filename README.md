@@ -8,7 +8,7 @@
   <br>
   Olá, seja bem-vindo ao meu perfil do GitHub!
 
-  Sou Pedro Holanda, um desenvolvedor Full-Stack com base em Recife/PE🏡. Graduado em Análise e Desenvolvimento de Sistemas e em Direito📚, atualmente atuo na empresa <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓.
+  Sou Pedro Holanda, um desenvolvedor Full-Stack com base em Recife/PE🏡. Graduado em Análise e Desenvolvimento de Sistemas e em Direito📚, atualmente atuo na empresa <a href="https://www.ferreiracosta.com">FCx Labs</a>🤓.
 
   <h1> Principais Contribuições Profissionais:</h1>
 
