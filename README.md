@@ -1,99 +1,18 @@
-<h2 align="center">Bem vindo ao meu perfil do Github 👨🏽‍💻 | Welcome to my github's profile </h2>
+<h2 align="center">Welcome to my github's profile </h2>
 <div style="display: flex; justify-content: center;">
   <img src="https://user-images.githubusercontent.com/89168072/205083177-c18a62e2-aec2-40b9-a7f5-80f892ca804f.gif" style="width: 2000px; height: auto;">
 </div>
 <br>
 <div>
-[PT/BR]
-  <br>
-  Olá, seja bem-vindo ao meu perfil do GitHub!
-
-  Sou Pedro Holanda, um desenvolvedor Full-Stack com base em Recife/PE🏡. Graduado em Análise e Desenvolvimento de Sistemas e em Direito📚, atualmente atuo na empresa <a href="https://www.ferreiracosta.com">FCx Labs</a>🤓.
-
-  <h1> Principais Contribuições Profissionais:</h1>
-
-  - **Ampliação de recursos no Back-End:** Utilizando C# em conjunto com o Framework .NET (3.1, 5, 6 e 8) e EF, promovo o desenvolvimento contínuo de novas funcionalidades.
-
-  - **Migração de Sistemas Monolitos para MicroServiços:** Implementei a migração de sistemas monolíticos para arquiteturas de MicroServiços, utilizando diversos padrões de projeto, incluindo CQRS, MVC e mais.
-
-  - **Integração de Sistemas com o RM (TOTVS):** Responsável por integrações eficientes com o sistema RM da Totvs, para gestão de contratos, convênios e outras operações.
-
-  - **Inovação no Front-End:** Utilizando JavaScript e o Framework Vue.js, desenvolvo novos recursos para aprimorar a interação do usuário com as interfaces.
-
-  - **Rastreabilidade e colaboração:** Aplico o versionamento de código utilizando Git e GitLab, garantindo um fluxo de trabalho transparente e colaborativo.
-
-  - **Integração com plataformas de mensageria através do RabbitMQ:** Implementei comunicação eficiente entre sistemas, utilizando o RabbitMQ.
-    
-  - **Treinamento de Estagiários:** Realizo o treinamento de novos estagiários, auxiliando em dúvidas e analisando seus MR's.
-
-  - **Gerenciamento de Banco de Dados SQLServer, MySQL e PostgreSQL:** Asseguro o armazenamento e acesso robusto aos dados por meio do gerenciamento eficaz de bancos de dados.
-
-  - **Tratativa com Clientes:** Utilizo ferramentas como Monday, Trello e Notion para otimizar o atendimento aos clientes no dia a dia.
-
-  - **Levantamento de Requisitos e Estimativa:** Realizo o levantamento de requisitos para novas funcionalidades e aplicações, calculando pontos de função e estimando o trabalho necessário.
-
-</div>
-
-<div>
-  <h1> Competências :</h1>
-
-### Tecnologias e Ferramentas:
-
-- **Linguagens:**
-  - C#
-  - JavaScript
-  - Java
-
-- **Frameworks +:**
-  - .NET Framework
-  - Vue.js
-  - Entity Framework
-  - SpringBoot
-
-- **Bancos de Dados:**
-  - Microsoft SQL Server
-  - MySQL
-  - PostgreSQL
-
-- **Ferramentas de Controle de Versão:**
-  - Git
-  - Github
-  - GitLab
-  - Bitbucket
-
-- **Ferramentas de Gerenciamento de Projetos:**
-  - Jira
-  - Monday
-  - Trello
-  - Notion
-
-- **Integração e Mensageria:**
-  - API RESTFUL
-  - Docker
-  - RabbitMQ
-
-- **Sistemas de Gestão Empresarial:**
-  - RM (Totvs)
-
-- **Gerenciador de Banco de dados:**
-  - DBeaver
-
-- **Habilidades Profissionais:**
-  - Levantamento de Requisitos
-  - Relacionamento com Clientes
-  - Treinamento de novos Estagiários
-</div>
-
-<div>
 [EN/US]
   <br>
   Hello, welcome to my GitHub profile!
 
-  I'm Pedro Holanda, a Full-Stack Developer based in Recife/PE🏡. Graduated in Systems Analysis and Development and Law📚, I am currently working at <a href="https://www.bluetechnology.com.br">Blue Technology</a>🤓.
+  I'm Pedro Holanda, a Full-Stack Developer based in Recife/PE🏡. Graduated in Systems Analysis and Development and Law📚, I am currently working at <a href="https://www.ferreiracosta.com">FCx Labs</a>🤓.
 
   <h1> Key Professional Contributions:</h1>
 
-  - **Backend Enhancement:** Utilizing C# in conjunction with the .NET Framework (3.1, 5, 6 and 8) and EF, I promote the continuous development of new functionalities.
+  - **Backend Enhancement:** Utilizing C# in conjunction with the .NET Framework (3.1, 5, 6 and 8) and EF, I promote the continuous development of new functionalities. Already worked with HTTP 1.1 with Json and 2.0 using gRPC.
 
   - **Migration from Monoliths to Microservices:** I implemented the migration of monolithic systems to Microservices architectures, using various designs systems, including CQRS, MVC, among others.
 
